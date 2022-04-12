@@ -3,15 +3,15 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 
 # Features
 
-Add a new List
-Add new task to existing List
-Mark task as completed 
-Delete Completed Task
-Set task priority
-Delete List
+Add a new List <br>
+Add new task to existing List <br>
+Mark task as completed <br>
+Delete Completed Task <br>
+Set task priority <br>
+Delete List <br>
 
 # Technologies used:
 
-HTML
-CSS
-JavaScript
+HTML <br>
+CSS <br>
+JavaScript <br>
